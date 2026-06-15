@@ -1,7 +1,4 @@
-#arrays, strings, loops, functions, dictionaries, and basic algorithms
-
-
-
+"""
 #list and tuple are data strcutre in python which store multiple values of different type
 #a=[1,2.5,False,"name"]
 #list are mutable
@@ -44,3 +41,58 @@ print(a)
 print(a.count(45))  #tell the count of a value in the tuple
 
 print(a.index(45))    #return index
+
+"""
+
+"""
+fruits=[]
+
+f1=input("enter any fruit name")
+fruits.append(f1)
+f2=input("enter any fruit name")
+fruits.append(f2)
+f3=input("enter any fruit name")
+fruits.append(f3)
+f4=input("enter any fruit name")
+fruits.append(f4)
+f5=input("enter any fruit name")
+fruits.append(f5)
+f6=input("enter any fruit name")
+fruits.append(f6)
+f7=input("enter any fruit name")
+fruits.append(f7)
+
+print(fruits)"""
+
+"""
+marks=[]
+m1=int(input("enter marks of std 1"))
+marks.append(m1)
+m2=int(input("enter marks of std 2"))
+marks.append(m2)
+m3=int(input("enter marks of std 3"))
+marks.append(m3)
+m4=int(input("enter marks of std 4"))
+marks.append(m4)
+m5=int(input("enter marks of std 5"))
+marks.append(m5)
+m6=int(input("enter marks of std 6"))
+marks.append(m6)
+marks.sort()
+print(marks)
+"""
+
+"""
+num=[2,3,4,5]
+sum=0
+sum+=num[0]
+sum+=num[1]
+sum+=num[2]
+sum+=num[3]
+print(sum)
+"""
+
+"""
+a = (7, 0, 8, 0, 0, 9)
+print(a.count(0))
+"""
