@@ -20,7 +20,7 @@ print("hi\n i am nadeem") #\n new line
 # \"\" 
 
 
-#function
+#function or method
 print(len(a))
 print(a.endswith("eem"))
 print(b.startswith("na"))
