@@ -90,6 +90,7 @@ sum+=num[1]
 sum+=num[2]
 sum+=num[3]
 print(sum)
+print(sum(num))
 """
 
 """
