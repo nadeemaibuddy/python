@@ -1,9 +1,9 @@
-#string is data type
+"""#string is data type
 #imutable
 
 a ='nadeem'
 b="nadeem"
-c="""nadeem"""
+c=""nadeem""
 
 name=a[0:4]   #stating :ending:increment(back word start from  -1)
 print(name)
@@ -49,3 +49,4 @@ print(text.replace("  "," "))
 letter1 = "Dear Harry,\nthis python course is nice.\nThanks!"
 print(letter1)
 
+"""
