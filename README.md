@@ -9,3 +9,5 @@ print(type(variable_name))
 print("hello",end="")
 print("world",end="")
 #end="" help in printing in the same line 
+
+ctrl+/ to comment and uncomment
