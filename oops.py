@@ -11,6 +11,17 @@
 # print(r1.name,r2.salary,r2.language)
 
 
+
+#4 pillers of oops
+# Encapsulation - Keeps data safe by locking it inside a class and allowing access only through special methods.
+# Abstraction   - hiding the work done
+# Inheritance   - inheriting the propertys of other class
+# Polymorphism  - Allows the exact same method name to perform different actions based on the object using it
+
+
+
+
+
 #first object(instance) attribute is given preference
 # class employee:
 #     language ="py"      
