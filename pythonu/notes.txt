@@ -1,0 +1,6 @@
+Data Type     Mutable   Operations Performed
+----------------------------------------------
+List          Yes       append, insert, remove, pop, sort
+Set           Yes       add, update, discard, clear
+Tuple         No        len, print
+Dictionary    Yes       get, pop, clear, del
